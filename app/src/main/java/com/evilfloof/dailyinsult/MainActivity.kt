@@ -9,7 +9,7 @@ import com.evilfloof.dailyinsult.data.Datasource
 
 /*
 * This app loads an insult and puts it in a RecyclerView on screen
-* TODO: Load floof images for each insult
+* Together with a floof emote :Prayge:
  */
 
 class MainActivity : AppCompatActivity() {

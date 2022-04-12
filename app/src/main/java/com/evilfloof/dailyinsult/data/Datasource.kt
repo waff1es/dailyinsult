@@ -14,7 +14,8 @@ class Datasource {
             Insult(R.string.insult6, R.drawable.floof6),
             Insult(R.string.insult7, R.drawable.floof7),
             Insult(R.string.insult8, R.drawable.floof8),
-            Insult(R.string.insult9, R.drawable.floof9)
+            Insult(R.string.insult9, R.drawable.floof9),
+            Insult(R.string.insult10, R.drawable.floof10)
         )
     }
 }
